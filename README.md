@@ -14,7 +14,7 @@ Project
 └── terragrunt.hcl
 ```
 
-##Parent `terragrunt.hcl` file
+## Parent `terragrunt.hcl` file
 this file includes all the config for your state management. It needs to be updated with your bucket name for your project. 
 ```terraform
 # stage/terragrunt.hcl
